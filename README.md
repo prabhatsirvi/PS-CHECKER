@@ -19,7 +19,7 @@ PS CHECK is a powerful and automated Python script designed to check whether a d
 - Clone this repository and navigate to the directory:
 
 ```bash
-git clone [https://github.com//ps-check.git](https://github.com/prabhatsirvi//ps-check.git)
+git clone https://github.com/prabhatsirvi//ps-check.git
 cd ps-check
 ```
 
